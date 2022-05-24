@@ -3,10 +3,10 @@
 *.db-journal
 
 # Virtual Environment
-/Archivist
+Archivist/
 
 # TOKEN
-token.0
+private/
 
 # Misc???
 __pycache__
