@@ -1,0 +1,12 @@
+# Database Related
+*.db
+*.db-journal
+
+# Virtual Environment
+.Archivist
+
+# TOKEN
+token.0
+
+# Misc???
+__pycache__
