@@ -1,6 +1,6 @@
 # Database Related
-*.db
-*.db-journal
+*.sqlite
+*.sqlite-journal
 
 # Virtual Environment
 Archivist/
@@ -10,3 +10,4 @@ private/
 
 # Misc???
 __pycache__
+Cogs/
