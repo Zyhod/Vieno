@@ -1,8 +1,10 @@
 import discord
-from discord.ext import commands
 import sqlite3
 import os
+from discord.ext import commands
 from private.config import token
+
+intents = discord.Intents(messages=True, guilds=True)
 
 client = commands.Bot(command_prefix = f'v.')
 client.remove_command("help")
