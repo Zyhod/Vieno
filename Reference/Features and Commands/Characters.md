@@ -1,5 +1,14 @@
 # Character Commands
 
+**Directory**
+- [New Character](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#new-character)
+- [Information Cards](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#information-cards)
+- [Updating Information](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#updating-information)
+    - [Main](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#main)
+    - [Base](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#base)
+    - [Battle](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#battle)
+    - [Social](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#social)
+
 ## New Character
 To register a New Character: `v.chara new <chara_id> <name>`
 
