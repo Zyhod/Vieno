@@ -1,5 +1,15 @@
 # Questions & Answers
 For the most part, these are just questions I thought about while developing the bot that I figured I'd put into here.
 
+## Q. Why'd you create a repository if Vieno is currently Exclusive?
+For a couple of reasons, really. The first being in case I want to make all this public, and the second being so I have a place to put information, like this Q & A, somewhere to later show people.
+
+## Q. What can Vieno do?
+Vieno can do a few things, but the main highlights that the bot was created for are:
+- Creating an archive of muns and their characters.
+- Rolling dice, with the ability to define reasons for rolls.
+- Choosing something from a given list.
+- Creating turn orders.
+
 ## Q. Do Character or Mun Ids *have* to be 5 characters?
 Not necessarily, no. Five is just the maximum amount of characters, so if you wanted a Character or Mun ID of 1 character, go for it.
