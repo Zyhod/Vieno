@@ -6,25 +6,16 @@
 
 There are, at current, three different types of Character Cards that you can view. More cards are currently in consideration, however.
 - **Base**
-    - Type Command: `base`
+    - 'Type' Command: `base`
     - Contains a character's Summary, Pronouns, Age, Date of Birth, Physical Desription, and Notes.
 - **Battle**
-    - Type Command: `battle`
+    - 'Type' Command: `battle`
     - Contains a character's Battle Style/Summary, Base Health, Evasion, and Defense, Weapons, and Specials/Skills.
 - **Social**
-    - Type Command: `social`
+    - 'Type' Command: `social`
     - Contains information on a character's relations to Family, Friends, Enemies, and 'Specific'.
 
 *Note: A character's Name, Emoji, Avatar, and Hex Code are cross-card information, meaning it is used across all of the different card types.*
-
-### Social
-`v.chara social <chara_id>`
-
-This contains information regarding relations to other characters.
-- Family
-- Friends
-- Enemies
-- Specific
 
 ## Updating Information
 
@@ -39,42 +30,42 @@ When updating characters, it is important to note the order you put the command 
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
 - **Name**
-    - Field Command: `name`
+    - 'Field' Command: `name`
     - Can contain up to 20 characters.
     - May contain spaces and special characters.
 - **Emoji**
-    - Field Command: `emoji`
+    - 'Field' Command: `emoji`
     - Can either be inputted by copy & pasting a plain emoji, or by using discord's emoji format (i.e. `:smile:`)
     - Can contain multiple emojis.
 - **Avatar**
-    - Field Command: `avi`
+    - 'Field' Command: `avi`
     - *Note: It is best to use a Discord Attachment URL.*
 - **Hex Code**
-    - Field Command: `hexc` or `hex`
+    - 'Field' Command: `hexc` or `hex`
     - *Note: Only put the hexcode, do not include the #.*
 
 ### Base
 
 This contains information that will be found on the Base Information card.
 - **Summary**
-    - Field Command: `summary`
+    - 'Field' Command: `summary`
     - Can contain up to 250 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Pronouns**
-    - Field Command: `pronouns`
+    - 'Field' Command: `pronouns`
     - Can contain line breaks.
 - **Age**
-    - Field Command: `age`
+    - 'Field' Command: `age`
 - **Date of Birth**
-    - Field Command: `dob`, `birthday`, or `bday`
+    - 'Field' Command: `dob`, `birthday`, or `bday`
 - **Physical Description**
-    - Field Command: `physdesc`
+    - 'Field' Command: `physdesc`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Notes**
-    - Field Command: `notes`
+    - 'Field' Command: `notes`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
@@ -83,24 +74,24 @@ This contains information that will be found on the Base Information card.
 
 This contains information that will be found on the Battle Information card.
 - **Battle Style/Summary**
-    - Field Command: `bsum`, `bsummary`, or `bstyle`
+    - 'Field' Command: `bsum`, `bsummary`, or `bstyle`
     - Can contain up to 250 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Base Health**
-    - Field Command: `health` or `hp`
+    - 'Field' Command: `health` or `hp`
 - **Base Evasion**
-    - Field Command: `evasion` or `ev`
+    - 'Field' Command: `evasion` or `ev`
 - **Base Defense**
-    - Field Command: `defense` or `def`
+    - 'Field' Command: `defense` or `def`
 - **Weapons**
-    - Field Command: `weapons`
+    - 'Field' Command: `weapons`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
     - *Note: All Weapons and their information would need to be inputted together.*
 - **Specials/Skills**
-    - Field Command: `specials`
+    - 'Field' Command: `specials`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
@@ -111,22 +102,22 @@ This contains information that will be found on the Battle Information card.
 This contains information that will be found on the Social Information card.   
 *Note: All information for each relation type would need to be inputted together.*
 - **Family**
-    - Field Command: `family` or `fam`
+    - 'Field' Command: `family` or `fam`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Friends**
-    - Field Command: `friends`
+    - 'Field' Command: `friends`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Enemies**
-    - Field Command: `enemies`
+    - 'Field' Command: `enemies`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Specific**
-    - Field Command: `specific`
+    - 'Field' Command: `specific`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
