@@ -23,6 +23,8 @@ The `chara_id` is what will be used to search for, and update, their information
 
 *(Optional) You may add a character's name at the time of registration, or you may later use the Update Command to add their name.*
 
+*(Tip) Checking if the `chara_id` has already been taken may be beneficial.*
+
 ## Information Cards
 To view a Character Card: `v.chara <type> <chara_id>`
 

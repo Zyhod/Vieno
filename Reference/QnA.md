@@ -9,7 +9,4 @@ Vieno can do a few things, but the main highlights that the bot was created for 
 - Creating an archive of muns and their characters.
 - Rolling dice, with the ability to define reasons for rolls.
 - Choosing something from a given list.
-- Creating turn orders.
-
-## Q. Do Character or Mun Ids *have* to be 5 characters?
-Not necessarily, no. Five is just the maximum amount of characters, so if you wanted a Character or Mun ID of 1 character, go for it.
+- Creating turn orders (in place of Rolling Initiative)

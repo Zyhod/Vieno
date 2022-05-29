@@ -19,8 +19,9 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 
 ## Updates
 *May 29th, 2022*
-- Can now Name a character upon registry (`v.chara new <char_id> <charname>`).
+- Can now Name a character upon registry (`v.chara new <chara_id> <name>`).
 - Battle Information Card built.
     - Commands for updating Battle Information built.
 - Reference Material Updated
     - Characters
+    - Muns
