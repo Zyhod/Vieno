@@ -48,9 +48,9 @@ When updating characters, it is important to note the order you put the command 
 ### Main
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
-- Name (*name*)
-- Emoji (*emoji*)
-- Avatar (*avi*)
+- Name (`name`)
+- Emoji `emoji`
+- Avatar avi
     - *Note: It is best to use a Discord Attachment URL.*
 - Hex Code (*hexc, hex*)
     - *Note: Only put the hexcode, not the #.*
