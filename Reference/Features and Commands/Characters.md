@@ -1,8 +1,21 @@
 # Character Commands
 
-## Information Cards
+## New Character
+To register a New Character: `v.chara new <chara_id> <name>`
 
-`v.chara <type> <chara_id>`
+When registering a new character to the databse you must assign them a **Character ID**, or `chara_id` for short.
+- *Must be unique.*
+- Can contain up to 5 characters.
+- Can be a mix of letters and numbers.
+- Are Case Sensitive.
+- *Cannot be changed at this time.*
+
+The `chara_id` is what will be used to search for, and update, their information.
+
+You may add a character's name at the time of registration, or you may later use the Update Command to add their name.
+
+## Information Cards
+To view a Character Card: `v.chara <type> <chara_id>`
 
 There are, at current, three different types of Character Cards that you can view. More cards are currently in consideration, however.
 - **Base**
@@ -18,13 +31,14 @@ There are, at current, three different types of Character Cards that you can vie
 *Note: A character's Name, Emoji, Avatar, and Hex Code are cross-card information, meaning it is used across all of the different card types.*
 
 ## Updating Information
-
-`v.chara update <field> <chara_id> <value>`
+To update a Character's Information: `v.chara update <field> <chara_id> <value>`
 
 When updating characters, it is important to note the order you put the command in:
 - The field being updated needs to go first.
 - The ID of the character you're updating needs to be second.
 - The information you're adding needs to be last.
+
+It is important to note that only the Creator of a character can edit their information.
 
 ### Main
 
