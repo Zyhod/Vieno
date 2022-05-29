@@ -2,29 +2,18 @@
 
 ## Information Cards
 
-There are, at the moment, three types of Character Cards. More types of cards are in consideration, however.
+`v.chara <type> <chara_id>`
+
+There are, at current, three different types of Character Cards that you can view. More cards are currently in consideration, however.
+- **Base**
+    - Type Command: `base`
+    - Contains a character's Summary, Pronouns, Age, Date of Birth, Physical Desription, and Notes.
+- **Battle**
+    -  Type Command: `battle`
+    - Contains a character's Battle Style/Summary, Base Health, Evasion, and Defense, Weapons, and Specials/Skills.
 
 *Note: A character's Name, Emoji, Avatar, and Hex Code are cross-card information, meaning it is used across all of the different card types.*
 
-### Base
-`v.chara base <chara_id>`
-
-This contains base information about the character.
-- Character Summary
-- Pronouns
-- Age
-- Date of Birth
-- Physical Description
-- Character Notes
-
-### Battle
-`v.chara battle <chara_id>`
-
-This contains battle information about the character.
-- Battle Style/Summary
-- Base Health, Evasion, and Defense
-- Weapons
-- Specials/Skills
 
 ### Social
 `v.chara social <chara_id>`
@@ -37,10 +26,9 @@ This contains information regarding relations to other characters.
 
 ## Updating Information
 
-Updating information regarding to a character currently falls into four seperate categories.
-
-When updating characters, it is important to note the order you put the command in.  
 `v.chara update <field> <chara_id> <value>`
+
+When updating characters, it is important to note the order you put the command in:
 - The field being updated needs to go first.
 - The ID of the character you're updating needs to be second.
 - The information you're adding needs to be last.
