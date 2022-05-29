@@ -73,7 +73,7 @@ This contains information that will be found on the Battle Information card.
 
 ### Social
 
-This contains information that will be found on the Social Information card.
+This contains information that will be found on the Social Information card.   
 *Note: All information for each relation type would need to be inputted together.*
 - Family `v.chara update family <chara_id> <family>`
 - Friends `v.chara update friends <chara_id> <friends>`
