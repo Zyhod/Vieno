@@ -1,6 +1,6 @@
 # Character Commands
 
-**Directory**
+**Table of Contents**
 - [New Character](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#new-character)
 - [Information Cards](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#information-cards)
 - [Updating Information](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md#updating-information)
