@@ -21,7 +21,7 @@ When registering a new character to the databse you must assign them a **Charact
 
 The `chara_id` is what will be used to search for, and update, their information.
 
-You may add a character's name at the time of registration, or you may later use the Update Command to add their name.
+*(Optional) You may add a character's name at the time of registration, or you may later use the Update Command to add their name.*
 
 ## Information Cards
 To view a Character Card: `v.chara <type> <chara_id>`
@@ -37,7 +37,7 @@ There are, at current, three different types of Character Cards that you can vie
     - 'Type' Command: `social`
     - Contains information on a character's relations to Family, Friends, Enemies, and 'Specific'.
 
-*Note: A character's Name, Emoji, Avatar, and Hex Code are cross-card information, meaning it is used across all of the different card types.*
+*(Note) A character's Name, Emoji, Avatar, and Hex Code are cross-card information, meaning it is used across all of the different card types.*
 
 ## Updating Information
 To update a Character's Information: `v.chara update <field> <chara_id> <value>`
@@ -47,7 +47,7 @@ When updating characters, it is important to note the order you put the command 
 - The ID of the character you're updating needs to be second.
 - The information you're adding needs to be last.
 
-It is important to note that only the Creator of a character can edit their information.
+*(Note) It is important to know that only the Creator of a character can edit their information.*
 
 ### Main
 
@@ -62,10 +62,10 @@ This contains information that can be found on most, if not all, the different t
     - Can contain multiple emojis.
 - **Avatar**
     - 'Field' Command: `avi`
-    - *Note: It is best to use a Discord Attachment URL.*
+    - *(Note) It is best to use a Discord Attachment URL.*
 - **Hex Code**
     - 'Field' Command: `hexc` or `hex`
-    - *Note: Only put the hexcode, do not include the #.*
+    - *(Note) Only put the hexcode, do not include the #.*
 
 ### Base
 
@@ -112,13 +112,13 @@ This contains information that will be found on the Battle Information card.
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
-    - *Note: All Weapons and their information would need to be inputted together.*
+    - *(Note) All Weapons and their information would need to be inputted together.*
 - **Specials/Skills**
     - 'Field' Command: `specials`
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
-    - *Note: All Specials/Skills and their information would need to be inputted together.*
+    - *(Note) All Specials/Skills and their information would need to be inputted together.*
 
 ### Social
 
@@ -144,4 +144,4 @@ This contains information that will be found on the Social Information card.
     - Can contain up to 1000 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
-    - *Note: This would include relations specific to certain characters (e.g. Rival, Lover)*
+    - *(Note) This would include relations specific to certain characters (e.g. Rival, Lover)*
