@@ -9,11 +9,13 @@ There are, at current, three different types of Character Cards that you can vie
     - Type Command: `base`
     - Contains a character's Summary, Pronouns, Age, Date of Birth, Physical Desription, and Notes.
 - **Battle**
-    -  Type Command: `battle`
+    - Type Command: `battle`
     - Contains a character's Battle Style/Summary, Base Health, Evasion, and Defense, Weapons, and Specials/Skills.
+- **Social**
+    - Type Command: `social`
+    - Contains information on a character's relations to Family, Friends, Enemies, and 'Specific'.
 
 *Note: A character's Name, Emoji, Avatar, and Hex Code are cross-card information, meaning it is used across all of the different card types.*
-
 
 ### Social
 `v.chara social <chara_id>`
