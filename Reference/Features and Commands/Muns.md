@@ -2,9 +2,9 @@
 This will get some more in depth information later, I promise.
 
 **Table of Contents:**
-- [New Mun]()
-- [Mun Cards]()
-- [Updating Information]()
+- [New Mun](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#new-mun)
+- [Mun Cards](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#mun-cards)
+- [Updating Information](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#updating-information)
 
 ## New Mun
 To register yourself as a New Mun: `v.mun new <mun_id>`
@@ -34,7 +34,7 @@ Unlike Characters, you do not need to add your mun_id in order to update your in
 You are able to update/change most, if not all, information found on your Mun Card.
 - **Mun ID**
     - 'Field' Command: `m_id`, `mid`, or `munid`
-    - See [New Mun]() for specifications.
+    - See [New Mun](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#new-mun) for specifications.
 - **Name**
     - 'Field' Command: `name`
     - Can contain up to 20 characters.
@@ -46,6 +46,7 @@ You are able to update/change most, if not all, information found on your Mun Ca
 - **Description**
     - 'Field' Command: `description` or `desc`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Pronouns**
@@ -57,6 +58,12 @@ You are able to update/change most, if not all, information found on your Mun Ca
 - **Timezone**
     - 'Field' Command: `timezone` or `tz`
     - Can use any formatting, though UTC is most universal.
+- **Activity Status**
+    - 'Field' Command: `status`
+    - Can contain up to 200 characters.
+    - Can contain emojis.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
 - **Avatar**
     - 'Field' Command: `avi`
     - *(Note) It is best to use a Discord Attachment URL.*

@@ -75,6 +75,7 @@ This contains information that will be found on the Base Information card.
 - **Summary**
     - 'Field' Command: `summary`
     - Can contain up to 250 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Pronouns**
@@ -87,11 +88,13 @@ This contains information that will be found on the Base Information card.
 - **Physical Description**
     - 'Field' Command: `physdesc`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Notes**
     - 'Field' Command: `notes`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 
@@ -101,6 +104,7 @@ This contains information that will be found on the Battle Information card.
 - **Battle Style/Summary**
     - 'Field' Command: `bsum`, `bsummary`, or `bstyle`
     - Can contain up to 250 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Base Health**
@@ -112,12 +116,14 @@ This contains information that will be found on the Battle Information card.
 - **Weapons**
     - 'Field' Command: `weapons`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
     - *(Note) All Weapons and their information would need to be inputted together.*
 - **Specials/Skills**
     - 'Field' Command: `specials`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
     - *(Note) All Specials/Skills and their information would need to be inputted together.*
@@ -129,21 +135,25 @@ This contains information that will be found on the Social Information card.
 - **Family**
     - 'Field' Command: `family` or `fam`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Friends**
     - 'Field' Command: `friends`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Enemies**
     - 'Field' Command: `enemies`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Specific**
     - 'Field' Command: `specific`
     - Can contain up to 1000 characters.
+    - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
     - *(Note) This would include relations specific to certain characters (e.g. Rival, Lover)*
