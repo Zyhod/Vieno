@@ -48,12 +48,20 @@ When updating characters, it is important to note the order you put the command 
 ### Main
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
-- Name (`name`)
-- Emoji `emoji`
-- Avatar avi
-    - *Note: It is best to use a Discord Attachment URL.*
-- Hex Code (*hexc, hex*)
-    - *Note: Only put the hexcode, not the #.*
+- Name
+    - Field Command: `name`
+    - Able to contain up to 20 characters.
+    - May contain spaces and special characters.
+- Emoji
+    - Field Command: `emoji`
+    - Can either be inputted by copy & pasting a plain emoji, or by using discord's emoji format (i.e. `:smile:`)
+    - Can contain multiple emojis.
+- Avatar
+    - Field Command: `avi`
+    - It is best to use a Discord Attachment URL.
+- Hex Code
+    - Field Command: `hexc` or `hex`
+    - Only put the hexcode, do not include the #.
 
 ### Base
 
