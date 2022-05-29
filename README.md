@@ -2,12 +2,12 @@
 Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use of this bot is *very* exclusive to a small group of people.
 
 ## Quick Links
-- [Q & A](https://github.com/Zyhod/Vieno/blob/main/Reference/QnA.md)
+- [Q & A](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/QnA.md)
 - Commands
-    - [Characters](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Characters.md)
-    - ~~[Just for Fun](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Just%20For%20Fun.md)~~ *Not Yet Complete*
-    - [Muns](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md)
-    - ~~[Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Roleplay%20Related.md)~~ *Not Yet Complete*
+    - [Characters](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md)
+    - ~~[Just for Fun](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Just%20For%20Fun.md)~~ *Not Yet Complete*
+    - [Muns](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md)
+    - ~~[Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)~~ *Not Yet Complete*
 
 ## Future Plans
 - Character Cards...

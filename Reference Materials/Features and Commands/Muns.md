@@ -2,9 +2,9 @@
 This will get some more in depth information later, I promise.
 
 **Table of Contents:**
-- [New Mun](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#new-mun)
-- [Mun Cards](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#mun-cards)
-- [Updating Information](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#updating-information)
+- [New Mun](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#new-mun)
+- [Mun Cards](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-cards)
+- [Updating Information](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#updating-information)
 
 ## New Mun
 To register yourself as a New Mun: `v.mun new <mun_id>`
@@ -34,7 +34,7 @@ Unlike Characters, you do not need to add your mun_id in order to update your in
 You are able to update/change most, if not all, information found on your Mun Card.
 - **Mun ID**
     - 'Field' Command: `m_id`, `mid`, or `munid`
-    - See [New Mun](https://github.com/Zyhod/Vieno/blob/main/Reference/Features%20and%20Commands/Muns.md#new-mun) for specifications.
+    - See [New Mun](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#new-mun) for specifications.
 - **Name**
     - 'Field' Command: `name`
     - Can contain up to 20 characters.
