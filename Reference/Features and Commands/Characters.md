@@ -39,25 +39,31 @@ This contains information regarding relations to other characters.
 
 Updating information regarding to a character currently falls into four seperate categories.
 
+When updating characters, it is important to note the order you put the command in.  
+`v.chara update <field> <chara_id> <value>`
+- The field being updated needs to go first.
+- The ID of the character you're updating needs to be second.
+- The information you're adding needs to be last.
+
 ### Main
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
-- Name `v.chara update name <chara_id> <name>`
-- Emoji `v.chara update emoji <chara_id> <emoji>`
-- Avatar `v.chara update avi <chara_id> <url>`
+- Name (*name*)
+- Emoji (*emoji*)
+- Avatar (*avi*)
     - *Note: It is best to use a Discord Attachment URL.*
-- Hex Code `v.chara update hexc <chara_id> <hex>`
+- Hex Code (*hexc, hex*)
     - *Note: Only put the hexcode, not the #.*
 
 ### Base
 
 This contains information that will be found on the Base Information card.
-- Summary `v.chara update summary <chara_id> <summary>`
-- Pronouns `v.chara update pronouns <chara_id> <pronouns>`
-- Age `v.chara update age <chara_id> <age>`
-- Date of Birth `v.chara update dob <chara_id> <Month 00>`
-- Physical Description `v.chara update physdesc <chara_id> <desc>`
-- Notes `v.chara update notes <chara_id> <notes>`
+- Summary (*summary*)
+- Pronouns (*pronouns*)
+- Age (*age*)
+- Date of Birth (*dob, birthday, bday*)
+- Physical Description (*physdesc*)
+- Notes (*notes*)
 
 ### Battle
 
