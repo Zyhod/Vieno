@@ -48,49 +48,96 @@ When updating characters, it is important to note the order you put the command 
 ### Main
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
-- Name
+- **Name**
     - Field Command: `name`
-    - Able to contain up to 20 characters.
+    - Can contain up to 20 characters.
     - May contain spaces and special characters.
-- Emoji
+- **Emoji**
     - Field Command: `emoji`
     - Can either be inputted by copy & pasting a plain emoji, or by using discord's emoji format (i.e. `:smile:`)
     - Can contain multiple emojis.
-- Avatar
+- **Avatar**
     - Field Command: `avi`
-    - It is best to use a Discord Attachment URL.
-- Hex Code
+    - *Note: It is best to use a Discord Attachment URL.*
+- **Hex Code**
     - Field Command: `hexc` or `hex`
-    - Only put the hexcode, do not include the #.
+    - *Note: Only put the hexcode, do not include the #.*
 
 ### Base
 
 This contains information that will be found on the Base Information card.
-- Summary (*summary*)
-- Pronouns (*pronouns*)
-- Age (*age*)
-- Date of Birth (*dob, birthday, bday*)
-- Physical Description (*physdesc*)
-- Notes (*notes*)
+- **Summary**
+    - Field Command: `summary`
+    - Can contain up to 250 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Pronouns**
+    - Field Command: `pronouns`
+    - Can contain line breaks.
+- **Age**
+    - Field Command: `age`
+- **Date of Birth**
+    - Field Command: `dob`, `birthday`, or `bday`
+- **Physical Description**
+    - Field Command: `physdesc`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Notes**
+    - Field Command: `notes`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
 
 ### Battle
 
 This contains information that will be found on the Battle Information card.
-- Battle Style/Summary `v.chara update bsum <chara_id> <desc>`
-- Base Health `v.chara update hp <chara_id> <value>`
-- Base Evasion `v.chara update ev <chara_id> <value>`
-- Base Defense `v.chara update def <chara_id> <value>`
-- Weapons `v.chara update weapons <chara_id> <weapons>`
+- **Battle Style/Summary**
+    - Field Command: `bsum`, `bsummary`, or `bstyle`
+    - Can contain up to 250 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Base Health**
+    - Field Command: `health` or `hp`
+- **Base Evasion**
+    - Field Command: `evasion` or `ev`
+- **Base Defense**
+    - Field Command: `defense` or `def`
+- **Weapons**
+    - Field Command: `weapons`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
     - *Note: All Weapons and their information would need to be inputted together.*
-- Specials/Skills `v.chara update specials <chara_id> <specials>`
+- **Specials/Skills**
+    - Field Command: `specials`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
     - *Note: All Specials/Skills and their information would need to be inputted together.*
 
 ### Social
 
 This contains information that will be found on the Social Information card.   
 *Note: All information for each relation type would need to be inputted together.*
-- Family `v.chara update family <chara_id> <family>`
-- Friends `v.chara update friends <chara_id> <friends>`
-- Enemies `v.chara update enemies <chara_id> <enemies>`
-- Specific `v.chara update specific <chara_id> <specific>`
-    - *This would include relations specific to certain characters. An Example would be a Rival, or a Lover.*
+- **Family**
+    - Field Command: `family` or `fam`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Friends**
+    - Field Command: `friends`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Enemies**
+    - Field Command: `enemies`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Specific**
+    - Field Command: `specific`
+    - Can contain up to 1000 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+    - *Note: This would include relations specific to certain characters (e.g. Rival, Lover)*
