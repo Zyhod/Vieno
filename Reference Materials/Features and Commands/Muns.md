@@ -26,9 +26,11 @@ To view a Mun Card: `v.mun <type> <mun_id>`
 
 At the moment, there are two types of Mun Cards that can be found.
 - **Info Card:**
+    - 'Type' Command: `information` or `info`
     - Contains information about a Mun's Name, Description, Pronouns, Age & Date of Birth, Timezone, Activity Status, and Number of Characters Registered.
     - Shows a Mun's Avatar, Banner, and Hex Code.
 - **Registered Characters:**
+    - 'Type' Command: `characters`, `charas`, or `muses`
     - Contains the `chara_id` and `names` of all characters registered to that mun.
 
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-commands)
