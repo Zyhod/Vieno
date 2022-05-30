@@ -111,10 +111,14 @@ This contains information that will be found on the Base Information card.
     - 'Field' Command: `age`
 - **Date of Birth**
     - 'Field' Command: `dob`, `birthday`, or `bday`
-- **Physical Description**
-    - 'Field' Command: `physdesc`
-    - Can contain up to 1000 characters.
-    - Can contain emojis.
+- **Species**
+    - 'Field' Command: `species`
+    - Can contain up to 50 characters.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
+- **Size**
+    - 'Field' Command: `size`
+    - Can contain up to 50 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Notes**
