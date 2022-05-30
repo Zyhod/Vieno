@@ -10,14 +10,15 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
     - ~~[Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)~~ *Not Yet Complete*
 
 ## Future Plans
-- Character Cards...
+- [ ] Character Cards...
     - [x] Create/Set Up Battle Card
     - [ ] Create/Set Up Social Card
     - [x] Debate whether or not adding a Link Card would be necessary.
 - [x] Figure out a way to remove a Character from The Archive.
+    - *Should be simple enough, just need to refresh myself on SQL a bit.*
 - [ ] Figure out a way to look up Character & Chara IDs; maybe by Mun IDs?
     - *Hardest part will probably be organizing information into an embed.*
-- Example Command Group to show...
+- [ ] Example Command Group to show...
     - [ ] Example Mun Card
     - [ ] Example Character Cards (Base, Battle, Social, etc)
 
