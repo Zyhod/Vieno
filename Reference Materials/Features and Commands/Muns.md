@@ -19,7 +19,7 @@ The `chara_id` is what will be used to search for your information.
 
 *(Tip) Checking if the `mun_id` has already been taken may be beneficial.*
 
-[^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md)
+[^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-commands)
 
 ## Mun Cards
 To view a Mun Card: `v.mun card <mun_id>`
@@ -28,7 +28,7 @@ At the moment, this is the only type of Mun Information card available. A Mun Ca
 - Contains information about a Mun's Name, Description, Pronouns, Age & Date of Birth, Timezone, and Activity Status.
 - Shows a Mun's Avatar, Banner, and Hex Code.
 
-[^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md)
+[^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-commands)
 
 ## Updating Information
 To update your Information: `v.mun update <field> <value>`
@@ -78,4 +78,4 @@ You are able to update/change most, if not all, information found on your Mun Ca
     - 'Field' Command: `banner`
     - *(Note) It is best to use a Discord Attachment URL.*
 
-[^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md)
+[^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-commands)
