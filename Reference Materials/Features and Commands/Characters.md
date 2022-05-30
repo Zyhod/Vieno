@@ -1,7 +1,8 @@
 # Character Commands
 
 **Table of Contents**
-- [New Character](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#new-character)
+- [Register Character](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#register-character)
+- [Remove Character](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#remove-character)
 - [Information Cards](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#information-cards)
 - [Updating Information](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#updating-information)
     - [Main](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#main)
@@ -9,10 +10,11 @@
     - [Battle](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#battle)
     - [Social](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#social)
 
-## New Character
-To register a New Character: `v.chara new <chara_id> <name>`
+## Register Character
+To Register a New Character: `v.chara register <chara_id> <name>`  
+*Can use `reg` or `new` in place of `register`.*
 
-When registering a new character to the databse you must assign them a **Character ID**, or `chara_id` for short.
+When registering a new character to the database you must assign them a **Character ID**, or `chara_id` for short.
 - *Must be unique.*
 - Can contain up to 5 characters.
 - Can be a mix of letters and numbers.
@@ -24,6 +26,18 @@ The `chara_id` is what will be used to search for, and update, their information
 *(Optional) You may add a character's name at the time of registration, or you may later use the Update Command to add their name.*
 
 *(Tip) Checking if the `chara_id` has already been taken may be beneficial.*
+
+## Remove Character
+To remove a Character: `v.chara remove <chara_id>`  
+*Can use `delete` or `del` in place of `remove`.*
+
+This permanently removes all records of the specified character from:
+- Main Information
+- Base Information
+- Battle Information
+- Social Information
+
+*(Note) It is important to note that only the Creator of a character can remove their records.*
 
 ## Information Cards
 To view a Character Card: `v.chara <type> <chara_id>`

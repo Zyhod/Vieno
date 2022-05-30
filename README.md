@@ -14,7 +14,7 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
     - ~~Create/Set Up Battle Card~~ *COMPLETE*
     - Create/Set Up Social Card
     - Debate whether or not adding a Link Card would be necessary
-- Figure out a way to remove a Character from The Archive
+- ~~Figure out a way to remove a Character from The Archive~~ *COMPLETE*
     - *This should be easy enough, I just need to refresh myself on SQL language.*
 - Figure out a way to look up Character & Chara IDs; maybe by Mun IDs?
     - *Hardest part will probably be organizing information into an embed.*
@@ -30,3 +30,4 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 - Reference Material Updated
     - Characters
     - Muns
+- Added a Character Removal Command
