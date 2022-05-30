@@ -65,6 +65,8 @@ When updating characters, it is important to note the order you put the command 
 
 *(Note) It is important to know that only the Creator of a character can edit their information.*
 
+---
+
 ### Main
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
@@ -82,6 +84,8 @@ This contains information that can be found on most, if not all, the different t
 - **Hex Code**
     - 'Field' Command: `hexc` or `hex`
     - *(Note) Only put the hexcode, do not include the #.*
+
+---
 
 ### Base
 
@@ -112,6 +116,8 @@ This contains information that will be found on the Base Information card.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 
+---
+
 ### Battle
 
 This contains information that will be found on the Battle Information card.
@@ -141,6 +147,8 @@ This contains information that will be found on the Battle Information card.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
     - *(Note) All Specials/Skills and their information would need to be inputted together.*
+
+---
 
 ### Social
 
