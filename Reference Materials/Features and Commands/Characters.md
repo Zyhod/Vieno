@@ -65,9 +65,8 @@ When updating characters, it is important to note the order you put the command 
 
 *(Note) It is important to know that only the Creator of a character can edit their information.*
 
+### Main
 ---
-
-### __Main__
 
 This contains information that can be found on most, if not all, the different types of Character Cards.
 - **Name**
