@@ -129,7 +129,7 @@ This contains information that will be found on the Base Information card.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
 - **Associated Links**
-    - *(Important!) Contains TWO 'values' after the 'field': `url` and then `title`.*
+    - *(Important!) Contains TWO 'values' after the 'chara_id': `url` and then `title`.*
     - 'Field' Command(s):
         - Link One: `linkone` or `l1`
         - Link Two: `linktwo` or `l2`
