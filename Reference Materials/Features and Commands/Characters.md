@@ -34,10 +34,11 @@ To remove a Character: `v.chara remove <chara_id>`
 *Can use `delete` or `del` in place of `remove`.*
 
 This permanently removes all records of the specified character from:
-- Main Information
-- Base Information
-- Battle Information
-- Social Information
+- Main Records
+- Base Records
+- Battle Records
+- Social Records
+- Links Records
 
 *(Note) It is important to note that only the Creator of a character can remove their records.*
 
@@ -49,7 +50,7 @@ To view a Character Card: `v.chara <type> <chara_id>`
 There are, at current, three different types of Character Cards that you can view. More cards are currently in consideration, however.
 - **Base**
     - 'Type' Command: `base`
-    - Contains a character's Summary, Pronouns, Age, Date of Birth, Physical Desription, and Notes.
+    - Contains a character's Summary, Pronouns, Age, Date of Birth, Species, Size, Notes & Trivia, and Associated Links.
 - **Battle**
     - 'Type' Command: `battle`
     - Contains a character's Battle Style/Summary, Base Health, Evasion, and Defense, Weapons, and Specials/Skills.
@@ -70,6 +71,8 @@ When updating characters, it is important to note the order you put the command 
 - The information you're adding needs to be last.
 
 *(Note) It is important to know that only the Creator of a character can edit their information.*
+
+*(Tip) To remove information from a field, type `_ _` in place of the 'value'.*
 
 ---
 
@@ -127,6 +130,15 @@ This contains information that will be found on the Base Information card.
     - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
+- **Associated Links**
+    - *(Important!) Contains TWO 'values' after the 'field': `url` and then `title`.*
+    - 'Field' Command(s):
+        - Link One: `linkone` or `l1`
+        - Link Two: `linktwo` or `l2`
+        - Link Three: `linkthree` or `l3`
+        - Link Four: `linkfour` or `l4`
+    - `title` may contain up to 50 characters.
+    - `title` may contain Spaces & Emojis.
 
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#character-commands)
 
