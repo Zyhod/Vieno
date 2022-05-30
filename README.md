@@ -10,9 +10,9 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
     - ~~[Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)~~ *Not Yet Complete*
 
 ## Future Plans
-- [ ] Character Cards...
+- [x] Character Cards...
     - [x] Create/Set Up Battle Card
-    - [ ] Create/Set Up Social Card
+    - [x] Create/Set Up Social Card
     - [x] Debate whether or not adding a Link Card would be necessary.
 - [x] Figure out a way to remove a Character from The Archive.
     - *Should be simple enough, just need to refresh myself on SQL a bit.*
@@ -26,10 +26,14 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 
 __*May 30th, 2022*__
 - Added a Strike Command in order to remove Character Information in all Fields except `name`.
+- Created seperate Command Groups for `update` and `strike`.
+    - *This was due to how the amount of available fields growing too large to contain under the `chara` group.*
+- Renamed the area 'Battle' to 'Combat'.
+- Created/Set Up Character Social Card
 
 __*May 29th, 2022*__
 - Can now Name a character upon registry (`v.chara new <chara_id> <name>`).
-- Battle Information Card built/set up.
+- Created/Set Up Battle Information Card.
     - Commands for updating Battle Information 
 - Reference Materials Updated
     - Characters
