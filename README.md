@@ -25,13 +25,13 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 ## Updates
 
 __*May 30th, 2022*__
-- Added a Strike Command in order to remove Character
+- Added a Strike Command in order to remove Character Information in all Fields except `name`.
 
 __*May 29th, 2022*__
 - Can now Name a character upon registry (`v.chara new <chara_id> <name>`).
-- Battle Information Card built.
-    - Commands for updating Battle Information built.
-- Reference Material Updated
+- Battle Information Card built/set up.
+    - Commands for updating Battle Information 
+- Reference Materials Updated
     - Characters
     - Muns
 - Added a Character Removal Command
