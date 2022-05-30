@@ -148,6 +148,8 @@ This contains information that will be found on the Base Information card.
 
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#character-commands)
 
+---
+
 ### Links
 'Area' Command: `links` or `link`
 
