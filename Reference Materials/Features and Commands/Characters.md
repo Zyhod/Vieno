@@ -122,6 +122,7 @@ This contains information that will be found on the Base Information card.
     - Can contain up to 50 characters.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
+    - *(Note) Doesn't seem like the bot likes it when " is inputed as part of the `value`. If inputing in Imperial, use ft and in instead (e.g. 6'02" -> 6ft 02in)*
 - **Notes**
     - 'Field' Command: `notes`
     - Can contain up to 1000 characters.
