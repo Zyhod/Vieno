@@ -224,13 +224,19 @@ This contains information that will be found on the Combat Information card.
 
 This contains information that will be found on the Social Information card.   
 *(Note) All information for each relation type would need to be inputted together.*
+- **Social Summary/Description**
+    - 'Field' Command: `summary`, `sum` or `desc`
+    - Can contain up to 500 characters.
+    - Can contain emojis.
+    - Can contain line breaks.
+    - Can contain formatting (bold, italic, underline, code)
 - **Family Members**
     - 'Field' Command: `family` or `fam`
     - Can contain up to 1000 characters.
     - Can contain emojis.
     - Can contain line breaks.
     - Can contain formatting (bold, italic, underline, code)
-- **Friends**
+- **Friend Circle**
     - 'Field' Command: `friends`
     - Can contain up to 1000 characters.
     - Can contain emojis.
