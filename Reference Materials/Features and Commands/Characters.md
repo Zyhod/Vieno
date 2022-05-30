@@ -72,8 +72,6 @@ When updating characters, it is important to note the order you put the command 
 
 *(Note) It is important to know that only the Creator of a character can edit their information.*
 
-*(Tip) To remove information from a field, type `_ _` in place of the 'value'.*
-
 ---
 
 ### Main
@@ -209,3 +207,14 @@ This contains information that will be found on the Social Information card.
     - *(Note) This would include relations specific to certain characters (e.g. Rival, Lover)*
 
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#character-commands)
+
+## Striking Information
+To strike information from a Character's records: `v.chara strike <field> <chara_id>`
+
+When striking information, it is important to note the order you put the command in:
+- The field being striken needs to go first.
+- The ID of the character you're striking information for needs to be second.
+
+*(Note) It is important to know that only the Creator of a character can strike their information.*
+
+You can strike the information of any `field`, using the same 'Field' Commands as you would for Updating Information ([Main](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#main), [Base](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#base), [Battle](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#battle), [Social](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#social)), except for the `name`.
