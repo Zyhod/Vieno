@@ -11,20 +11,20 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 
 ## Future Plans
 - Character Cards...
-    - ~~Create/Set Up Battle Card~~ *COMPLETE*
-    - Create/Set Up Social Card
-    - ~~Debate whether or not adding a Link Card would be necessary~~ *DECIDED & IMPLEMENTED*
-- ~~Figure out a way to remove a Character from The Archive~~ *COMPLETE*
-- Figure out a way to look up Character & Chara IDs; maybe by Mun IDs?
+    - [x] Create/Set Up Battle Card
+    - [ ] Create/Set Up Social Card
+    - [x] Debate whether or not adding a Link Card would be necessary.
+- [x] Figure out a way to remove a Character from The Archive.
+- [ ] Figure out a way to look up Character & Chara IDs; maybe by Mun IDs?
     - *Hardest part will probably be organizing information into an embed.*
-- Example Command to show...
-    - Example Mun Card
-    - Example Character Cards (Base, Battle, Social, etc)
+- Example Command Group to show...
+    - [ ] Example Mun Card
+    - [ ] Example Character Cards (Base, Battle, Social, etc)
 
 ## Updates
 
 __*May 30th, 2022*__
-- Added a Strike Command in order to remove Character Information.
+- Added a Strike Command in order to remove Character
 
 __*May 29th, 2022*__
 - Can now Name a character upon registry (`v.chara new <chara_id> <name>`).
