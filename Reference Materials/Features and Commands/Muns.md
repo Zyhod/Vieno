@@ -22,11 +22,14 @@ The `chara_id` is what will be used to search for your information.
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-commands)
 
 ## Mun Cards
-To view a Mun Card: `v.mun card <mun_id>`
+To view a Mun Card: `v.mun <type> <mun_id>`
 
-At the moment, this is the only type of Mun Information card available. A Mun Card:
-- Contains information about a Mun's Name, Description, Pronouns, Age & Date of Birth, Timezone, and Activity Status.
-- Shows a Mun's Avatar, Banner, and Hex Code.
+At the moment, there are two types of Mun Cards that can be found.
+- **Info Card:**
+    - Contains information about a Mun's Name, Description, Pronouns, Age & Date of Birth, Timezone, Activity Status, and Number of Characters Registered.
+    - Shows a Mun's Avatar, Banner, and Hex Code.
+- **Registered Characters:**
+    - Contains the `chara_id` and `names` of all characters registered to that mun.
 
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md#mun-commands)
 
