@@ -12,7 +12,7 @@
     - [Social](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#social)
 
 ## Register Character
-To Register a New Character: `v.chara register <chara_id> <name>`  
+To Register a New Character: `v.chara register <chara_id> <name(optional)>`  
 *Can use `reg` or `new` in place of `register`.*
 
 When registering a new character to the database you must assign them a **Character ID**, or `chara_id` for short.

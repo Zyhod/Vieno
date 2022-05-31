@@ -5,9 +5,9 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 - [Q & A](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/QnA.md)
 - Commands
     - [Characters](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md)
-    - ~~[Just for Fun](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Just%20For%20Fun.md)~~ *Not Yet Complete*
+    - [Misc Commands](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Misc%20Commands.md)
     - [Muns](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md)
-    - ~~[Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)~~ *Not Yet Complete*
+    - [Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)
 
 ## Future Plans
 - [x] Character Cards...
@@ -33,6 +33,9 @@ __*May 30th, 2022*__
 - Created/Set Up Character Social Card.
 - Made a way to search up Character & Character IDs by Mun IDs.
     - *I was wrong; the hardest part was figuring out how to list the information.*
+- Added ability to add Modifiers to Roll command.
+- Renamed 'Just for Fun' to 'Misc Commands'.
+- Added information to both '[Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)' and '[Misc Commands](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Misc%20Commands.md)' Reference Materials.
 
 __*May 29th, 2022*__
 - Can now Name a character upon registry (`v.chara new <chara_id> <name>`).
