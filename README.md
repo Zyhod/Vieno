@@ -5,9 +5,9 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 - [Q & A](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/QnA.md)
 - Commands
     - [Characters](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md)
-    - [Misc Commands](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Misc%20Commands.md)
     - [Muns](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Muns.md)
     - [Roleplay Related](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Roleplay%20Related.md)
+    - [Misc Commands](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Misc%20Commands.md)
 
 ## Future Plans
 - [x] Character Cards...
