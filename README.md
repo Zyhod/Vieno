@@ -25,8 +25,9 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 ## Updates
 
 __*May 30th, 2022*__
-- Added a Strike Command in order to remove Character Information in all Fields except `name`.
-- Created seperate Command Groups for `update` and `strike`.
+- ~~Added a Strike Command in order to remove Character Information in all Fields except `name`.~~
+    - Removed this in favor of leaving `value` blank in update commands.
+- Created seperate Command Groups for `update` ~~and `strike`.~~
     - *This was due to how the amount of available fields growing too large to contain under the `chara` group.*
 - Renamed the area 'Battle' to 'Combat'.
 - Created/Set Up Character Social Card.

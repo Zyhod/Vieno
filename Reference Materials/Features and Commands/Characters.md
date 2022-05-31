@@ -64,15 +64,7 @@ There are, at current, three different types of Character Cards that you can vie
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#character-commands)
 
 ## Editing Information
-To update a Character's Information: `v.<update/strike> <area> <field> <chara_id> <value>`
-
-There are two ways you can edit a character's information:
-- Updating
-    - Full Command: `v.update <area> <field> <chara_id> <value>`
-    - Updates/Aadds information in the character's records in a specific field.
-- Striking
-    - Full Command: `v.strike <area> <field> <chara_id>`
-    - Removes/Resets information in the character's records in a specific field.
+To update a Character's Information: `v.update <area> <field> <chara_id> <value>`
 
 When Updating Characters, it is important to note the order you put the command in:
 - The area that information is being updated in needs to go first.
@@ -81,6 +73,8 @@ When Updating Characters, it is important to note the order you put the command 
 - The information you're adding needs to be last.
 
 *(Note) It is important to know that only the Creator of a character can edit their information.*
+
+*(Tip) If you leave the `value` blank, it will reset/remove the information in that character's records.*
 
 There are several Areas that information can be edited in.
 
