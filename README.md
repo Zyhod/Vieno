@@ -18,11 +18,14 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
     - *Should be simple enough, just need to refresh myself on SQL a bit.*
 - [x] Figure out a way to look up Character & Chara IDs; maybe by Mun IDs?
     - *Hardest part will probably be organizing information into an embed.*
-- [ ] Example Command Group to show...
-    - [ ] Example Mun Card
-    - [ ] Example Character Cards (Base, Battle, Social, etc)
+- [x] Example Command Group to show...
+    - [x] Example Mun Card
+    - [x] Example Character Cards (Base, Battle, Social)
 
 ## Updates
+
+__*May 31st, 2022*__
+- Created/Set Up Example Command Group.
 
 __*May 30th, 2022*__
 - ~~Added a Strike Command in order to remove Character Information in all Fields except `name`.~~
