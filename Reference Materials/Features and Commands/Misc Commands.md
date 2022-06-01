@@ -13,10 +13,11 @@ To have Vieno make a decision, use: `v.choose <option> | <option> | ...`
 - Can list any number of options for Vieno to choose from.
 
 ## Information Card Example
-To view an example information card, use: `v.example ...`
+To view an example information card, use: `v.example <type>`
 
-Shows examples of one of the four current types of Information Cards:
-- **Mun** `... mun`
-- **Character (Base)** `... chara base`
-- **Character (Combat)** `... chara combat`
-- **Character (Social)** `... chara social`
+- Can also use `eg` in place of `example.
+- Shows examples of one of the four current types of Information Cards:
+    - **Mun** `mun`
+    - **Character (Base)** `chara base`
+    - **Character (Combat)** `chara combat`
+    - **Character (Social)** `chara social`
