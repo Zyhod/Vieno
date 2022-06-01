@@ -99,6 +99,15 @@ This contains information that can be found on most, if not all, the different t
 - **Hex Code**
     - 'Field' Command: `hexc` or `hex`
     - *(Note) Only put the hexcode, do not include the #.*
+- **Category**
+    - 'Field' Command: `category`, `cat`, or `type`
+    - Defines whether your character is an Original, Fan, or Canon character.
+    - Is *only* found, and used, in the Character Lookup.
+    - *(Note) Input must be either 'Original', 'Fan', or 'Canon' and is case sensitive.*
+- **Instance**
+    - 'Field' Command: `instance` or `inst`
+    - Defines the instance/story that the character is used in.
+    - Is *only* found, and used, in the Character Lookup.
 
 [^ Back to Top](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md#character-commands)
 
