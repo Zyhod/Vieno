@@ -26,6 +26,9 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
 
 __*May 31st, 2022*__
 - Created/Set Up Example Command Group.
+- Added ability to define whether a character is an Original, Fan, or Canon character.
+- Added ability to define what instance/story/campaign a character comes from.
+- Added ability to look up a Mun's characters based on Original, Fan, Canon, or 'Unspecified'.
 
 __*May 30th, 2022*__
 - ~~Added a Strike Command in order to remove Character Information in all Fields except `name`.~~
