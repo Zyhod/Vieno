@@ -4,7 +4,7 @@ import os
 from discord.ext import commands
 from private.config import token
 
-intents = discord.Intents(messages=True, guilds=True)
+intents = discord.Intents(messages=True, guilds=True, members=True)
 
 client = commands.Bot(command_prefix = f'v.')
 client.remove_command("help")
