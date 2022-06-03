@@ -11,11 +11,7 @@ Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use
     - [Misc Commands](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Misc%20Commands.md)
 
 ## Future Plans
-*Update June 3rd, 2022*
-- [x] Add 'Server ID' to Characters
-    - This would take in What Server a character was made in, setting it as their 'Home Server'.
-- [x] Funds/Balance section.
-    - Plan is so that only Mods of the character's 'Home Server' can change how much a Character has.
+- None at the moment.
 
 ## Updates
 
