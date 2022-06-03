@@ -142,6 +142,10 @@ This contains information that will be found on the Base Information card.
     - Can contain formatting (bold, italic, underline, code)
     - *(Note) Doesn't seem like the bot likes it when quotations are inputed as part of the `value`.*
         - *If inputing in Imperial, use ft and in instead (e.g. 6'02" -> 6ft 02in)*
+- **Balance**
+    - 'Field' Command: `balance`, `bal`, or `funds`
+    - Can include Currency Characters (e.g. $, €, G, P/G/S/C)
+    - *Can only be changed in a Character's Home Server by members with the 'Manage Roles' Permission for said server.*
 - **Notes**
     - 'Field' Command: `notes`
     - Can contain up to 1000 characters.
