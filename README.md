@@ -2,7 +2,7 @@
 Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use of this bot is *very* exclusive to a small group of people.
 
 ## Quick Links
-- [Defintions](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Definitions.md)
+- [Definitions](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Definitions.md)
 - [Q & A](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/QnA.md)
 - Commands
     - [Characters](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md)
@@ -20,7 +20,7 @@ __*June 3rd, 2022*__
 - Added Funds/Balance to Character's Base Information.
     - Made it so only Mods of a character's Home Server can use this command.
 - Vieno is now being hosted on [SparkedHost](https://sparkedhost.com/discord-bot-hosting)!
-- Added [Defitionions](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Definitions.md).
+- Added [Definitions](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Definitions.md).
 
 __*May 31st, 2022*__
 - Created/Set Up Example Command Group.
