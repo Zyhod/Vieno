@@ -20,6 +20,7 @@ __*June 3rd, 2022*__
 - Added Funds/Balance to Character's Base Information.
     - Made it so only Mods of a character's Home Server can use this command.
 - Vieno is now being hosted on [SparkedHost](https://sparkedhost.com/discord-bot-hosting)!
+- Added [Defitionions](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Definitions.md).
 
 __*May 31st, 2022*__
 - Created/Set Up Example Command Group.
