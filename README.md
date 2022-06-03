@@ -2,6 +2,7 @@
 Vieno is a bot made specifically for use in Roleplay Servers. At the moment, use of this bot is *very* exclusive to a small group of people.
 
 ## Quick Links
+- [Defintions](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Definitions.md)
 - [Q & A](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/QnA.md)
 - Commands
     - [Characters](https://github.com/Zyhod/Vieno/blob/main/Reference%20Materials/Features%20and%20Commands/Characters.md)
