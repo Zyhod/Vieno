@@ -16,6 +16,6 @@ Vieno can do a few things, but the main highlights that the bot was created for 
 ## Character Questions
 
 ### Q. I want to use the same Character for different Instances/Roleplay Groups, what should I do?
-Your best bet is to register a New Character for every Instance/Roleplay Group. This way you can keep information, such as Relationship Information, pertaining to specific Instances/Groups seperate.
+Your best bet is to register a New Character for every Instance/Roleplay Group with different `chara_id`s. This way you can keep information, such as Relationship Information, pertaining to specific Instances/Groups seperate.
 
 *(Note) Remember, if registering for a Roleplay Group, make sure to register the character in the Roleplay Group's Server!*
