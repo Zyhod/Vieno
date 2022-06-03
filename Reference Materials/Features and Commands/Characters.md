@@ -36,7 +36,7 @@ To remove a Character: `v.chara remove <chara_id>`
 
 This permanently removes all records of the specified character from:
 - Main Records
-- Base Records
+- Combat Records
 - Battle Records
 - Social Records
 - Links Records
@@ -52,9 +52,9 @@ There are, at current, three different types of Character Cards that you can vie
 - **Base**
     - 'Type' Command: `base`
     - Contains a character's Summary, Pronouns, Age, Date of Birth, Species, Size, Notes & Trivia, and Associated Links.
-- **Battle**
-    - 'Type' Command: `battle`
-    - Contains a character's Battle Style/Summary, Base Health, Evasion, and Defense, Weapons, and Specials/Skills.
+- **Combat**
+    - 'Type' Command: `combat`
+    - Contains a character's Combat Style/Summary, Base Health, Evasion, and Defense, Weapons, and Specials/Skills.
 - **Social**
     - 'Type' Command: `social`
     - Contains information on a character's relations to Family, Friends, Enemies, and 'Specific'.
